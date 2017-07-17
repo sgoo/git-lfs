@@ -7,6 +7,9 @@ git-lfs-migrate(1) - Migrate history to or from git-lfs
 
 ## MODES
 
+* `import`
+    Migrate large objects into Git LFS.
+
 * `info`
     Show information about repository size.
 
